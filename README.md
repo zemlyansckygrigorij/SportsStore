@@ -6,7 +6,7 @@ http://localhost:4200/  -хост программы
 npm run json - запуск web-server
 ng serve -  запуск программы
 
-
+при входе в программу выполняется аутентификация
 
 # SportsStore
 ng serve -  запуск программы
