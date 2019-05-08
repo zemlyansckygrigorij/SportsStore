@@ -1,10 +1,13 @@
-cd E:\JavaScript\SportsStore
-http://localhost:3500/
-http://localhost:3500/products/1
-http://localhost:4200/
+
+host - http://localhost:4200/
+
+данная программа берет данные из массива products /model/static.datasource.ts
+и выводит их на экран 
 
 
-запуск web-server  - npm run json
+
+
+ng serve -  запуск программы
 # SportsStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.

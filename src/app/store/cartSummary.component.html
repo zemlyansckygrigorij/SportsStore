@@ -10,7 +10,9 @@
 		</span>
 	</small>
 	<button class = "btn btn-sm bg-inverse" 
-		[disabled]="cart.itemCount == 0">
+		[disabled]="cart.itemCount == 0"
+		routerLink = "/cart"
+		>
 
 		<i class = "fa fa-shopping-cart"></i>
 	</button>
