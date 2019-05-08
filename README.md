@@ -4,7 +4,10 @@ http://localhost:3500/  -страница web-server
 http://localhost:4200/  -хост программы 
 
 npm run json - запуск web-server
+
 ng serve -  запуск программы
+
+git branch authentication
 
 при входе в программу выполняется аутентификация
 
