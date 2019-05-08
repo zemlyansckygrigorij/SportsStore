@@ -1,12 +1,14 @@
 
-host - http://localhost:4200/
+http://localhost:3500/  -страница web-server
 
-данная программа берет данные из массива products /model/static.datasource.ts
-и выводит их на экран 
+http://localhost:4200/  -хост программы 
+
+npm run json - запуск web-server
+ng serve -  запуск программы
 
 
 
-
+# SportsStore
 ng serve -  запуск программы
 # SportsStore
 
